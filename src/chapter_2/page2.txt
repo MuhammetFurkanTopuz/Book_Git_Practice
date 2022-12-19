@@ -4,3 +4,5 @@ I am SDET student in Cydeo School
 
 page2
 text
+
+page 2 more information
